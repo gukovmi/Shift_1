@@ -20,9 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0aa9748-8617-4aad-8bd8-d1bda3a500c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Shift_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Shift_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shift_1/AppKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shift_1/META-INF/Shift_1.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +69,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595569171633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595569171633" />
     <state x="1120" y="274" key="FileChooserDialogImpl" timestamp="1595512627210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
